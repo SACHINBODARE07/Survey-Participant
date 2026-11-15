@@ -3,7 +3,9 @@ http://localhost:3000/result?status=terminate&sessionId=test
 http://localhost:3000/result?status=quotafull&sessionId=test
 http://localhost:3000/result?status=securityfail&sessionId=test
 
-http://localhost:3000/complete?sessionId=test
-http://localhost:3000/terminate?sessionId=test
-http://localhost:3000/quotafull?sessionId=test
-http://localhost:3000/securityfail?sessionId=test
+https://survey-participant.vercel.app/complete?sessionId=test
+https://survey-participant.vercel.app/terminate?sessionId=test
+https://survey-participant.vercel.app/?sessionId=test
+https://survey-participant.vercel.app//securityfail?sessionId=test
+
+https://prototype-survey-app.risings017.workers.dev/client-survey
